@@ -5,3 +5,7 @@
 5.  Used commad reset t remove everything from staging areas
 6.  You can reset any specific folder by wrting git reset <folder-name1> <folder-name2> 
 7.  Made fir commit using command git commit -m "user defined message"
+8.	git remote add origin <repository_URL>  Connect to remote repository ,Copy HTTP url from the hithub
+9.  git remote -v   lists all the repositories listed with local repository
+10.  git push -u origin main is used to save contents to remote repository but it failed as it said  you have already sth committed in remote repositories 
+11. used git push -f origin main  to force push local repo to remote repo
