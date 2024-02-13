@@ -1,0 +1,7 @@
+1.  Created KDDS folder 
+2.  Open GitBash in same folder 
+3.  Added two folders and one txt file in the folder 
+4.  Used command git add <folder-name>  for each folder one by one to add to stage area 
+5.  Used commad reset t remove everything from staging areas
+6.  You can reset any specific folder by wrting git reset <folder-name1> <folder-name2> 
+7.  Made fir commit using command git commit -m "user defined message"
